@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "after the battle with HD boyfriend has died and is now in what he assumes is purgatory",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "what??? where am i",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "hI",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "where the fuck am i and who are you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "Obama is dead",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "what",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "ra p batle m",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "bro im tryna find out where i am",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "I am hella confused",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "also why do i look like this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "Dieded lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "uhhhhh ok?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "so how do i get out",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "ra p  batle xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "I just wanna see her again",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "please just let me out or if you cant just help me",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "yes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok thank you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "nah lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "im gonna shove a printer up your asshole",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "What the fuck man",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "r ap batttttl NOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.00500000000000001,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok fine",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "the sjsd",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "144p"
+		}
+	]
+}

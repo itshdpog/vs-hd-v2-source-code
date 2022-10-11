@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "oh god my head hurts...",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "HELO FREND!!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "who... Who the hell are you?",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "IM YOUR BEST FREND IN THE WHOLE WIDE WORLD, 144P, BUT EVERYONE CALLS ME 1440p FOR SOME REASON",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "All right... can you tell me where I am?",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "WHY OF COURSE! YOUR IN PURGATORY!!!!11!!! ISNT THAT JUST DELIGHTFUL?!???!?",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "great. Can you tell me how to get out?",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "ET OUT???? WHY WOULD YOU WANT TO DO THAT????????? THIS PLACE IS LOVELY, WE EVEN HAVE A STARBUCKS!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Well I was kind of in the middle of something before I get sent here, was rap battling a waffle with a pony tail",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "RAP BATTLING??? YOU SHOULDA SAID YOU LIKE TO RAP BATTLE FIRST!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "LET ME CUT YOU A SPLENDID DEAL!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "IF YOU CAN BEAT ME THRICE IN SOME RAP BATTLES, I WILL ALLOW YOU TO LEAVE AND CARRY ON WITH YOUR MORTAL HUMAN BUSINESS!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"portrait": "144p",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Fine, but you better not pull anything funny",
+			"boxState": "normal",
+			"sound": "bf1",
+			"portrait": "boifend",
+			"speed": 0.05
+		}
+	]
+}

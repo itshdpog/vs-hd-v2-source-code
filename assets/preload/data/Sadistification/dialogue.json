@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "I did your song, now will you get the hell-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*HD Suddenly Appears*"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.01,
+			"portrait": "HD",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "YOU MOTHER FUCKER!!!"
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ah shit"
+		},
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "notefailxd",
+			"text": "Who in the-"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.01,
+			"portrait": "hd",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "SHUT IT YOU EGGO WAFFLE LOOKIN ASS BITCH!!!"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.01,
+			"portrait": "HD",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "DID YOU REALLY THINK I ONLY HAD ONE CARROT?"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.05,
+			"portrait": "HD",
+			"boxState": "normal",
+			"expression": "Pissed",
+			"text": "NO LESS, THAT I WOULD JUST BE CARRYING IT AROUND?"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.01,
+			"portrait": "hd",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "THAT CARROT HAD A FRACTION OF THE POWER THE MAIN ONE HAS"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.01,
+			"portrait": "hd",
+			"boxState": "angry",
+			"expression": "Pissed",
+			"text": "BEHOLD, MY MAGNUM OPUS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*HD Holds Out MVP Carrot*"
+		},
+		{
+			"sound": "missnote",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "notefailxd",
+			"text": "..."
+		},
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A pee-stained carrot?"
+		},
+		{
+			"sound": "BF",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh no no no, listen man I'm sorry but I told you I just wanted to go home"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.05,
+			"portrait": "hd",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And I want you dead."
+		},
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait you hate this guy too?"
+		},
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "Annoying kid won't leave me alone"
+		},
+		{
+			"sound": "dab",
+			"speed": 0.05,
+			"portrait": "dab",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "Keeps demanding I rap battle with him \"just one more time\""
+		},
+		{
+			"sound": "HD",
+			"speed": 0.05,
+			"portrait": "hd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well if he wants to rap battle that bad"
+		},
+		{
+			"sound": "HD",
+			"speed": 0.05,
+			"portrait": "hd",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Then let's give it to him..."
+		}
+	]
+}

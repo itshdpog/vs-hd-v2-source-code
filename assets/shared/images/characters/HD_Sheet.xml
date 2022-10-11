@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HD_Sheet.png">
+	<!-- Fixed by SixteenJ using a file manager and Photo Editor lol -->
+	<SubTexture name="HD Idle0000" x="6" y="35" width="265" height="464" frameX="20" frameY="3" frameWidth="0" frameHeight="0"/>
+ <SubTexture name="HD Idle0001" x="312" y="46" width="278" height="454" frameX="16" frameY="-6" frameWidth="0" frameHeight="0"/>
+ <SubTexture name="HD Idle0002" x="616" y="38" width="266" height="462" frameX="15" frameY="2" frameWidth="0" frameHeight="0"/>
+ <SubTexture name="HD Idle0003" x="903" y="32" width="260" height="468" frameX="17" frameY="8" frameWidth="0" frameHeight="0"/>
+ <SubTexture name="HD Idle0004" x="1195" y="29" width="260" height="471" frameX="30" frameY="11" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="HD Left da Game0000" x="1547" y="26" width="273" height="474" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="HD Left da Game0001" x="1864" y="32" width="280" height="468" frameX="15" frameY="-5" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="HD Left da Game0002" x="2165" y="34" width="279" height="466" frameX="30" frameY="-10" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HD Up0000" x="2550" y="11" width="313" height="586" frameX="50" frameY="112" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HD Up0001" x="2900" y="3" width="295" height="593" frameX="36" frameY="123" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HD Up0003" x="3239" y="0" width="280" height="596" frameX="30" frameY="127" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="HD is Right0000" x="12" y="523" width="301" height="467" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HD is Right0001" x="380" y="523" width="309" height="467" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HD is Right0002" x="749" y="524" width="325" height="466" frameX="0" frameY="-1" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HDown0000" x="1171" y="509" width="296" height="405" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HDown0001" x="1511" y="520" width="293" height="396" frameX="0" frameY="-11" frameWidth="0" frameHeight="0"/>
+<SubTexture name="HDown0002" x="1837" y="531" width="296" height="383" frameX="0" frameY="-22" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

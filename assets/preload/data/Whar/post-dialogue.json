@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WELL WOULD YOU LOOK AT THAT!!!1"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can I..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can I go home now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ABOUT THAT!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I COULD JUST LET YOU GO NOW, BUT YOU'VE;E PROVEN YOURSELF TO BE VERY CAPABLE, AND YOU COULD BE VERY USEFUL FOR MY CAUSES!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I NEED YOU TO DO SOMETHING FOR ME, THEN I'LLLL REALLY LET YOU GO, PROMISE!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And why should I trust you this time?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SO THERE'S' THIS POCKET DIMENSION I CREATED FOR THE PURPOSE OF TORMENTING MY OLDER COUSIN, HD!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "UNFORTUNETELY FOR US, THAT SNEAKY LITTLE RAT IS EDGING CLOSER AND CLOSER TO ESCAPING WITH EACH PASSING DAY!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.29,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND WE CAN'T'T' HAVE THAT, NOW CAN WE????????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well why do I care? What am I even supposed to do about that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT IM GONNA DO IS SEND YOU INTO THAT POCKET DIMENSION FOR A LITTLE BIT"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND ALL YOU HAVE TO DO IS TAKE AWAY HIS MAGIC CARROT!!!! SIMPLE, IS IT NOT!???!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A magic carrot?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " DONT THINK TO HARD ABOUT IT!!! I JUST NEED YOU TO TAKE IT AWAY FROM HIM, ITS THE ONLY CHANCE HE HAS AT ESCAPING!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seems a bit excessive, I don't really wanna do this"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU CAN RAP BATTLE HIM IF YOU WANT TO GET THE CARROT!!!!!!11!!!!!11!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All right I'm in"
+		}
+	]
+}

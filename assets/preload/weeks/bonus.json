@@ -1,0 +1,58 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekhd",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"nether",
+			"aflac",
+			[
+				20,
+				20,
+				26
+			]
+		],
+		[
+			"Ripped OFf",
+			"bmg",
+			[
+				160,
+				255,
+				115
+			]
+		],
+		[
+			"Mediocre",
+			"maddie",
+			[
+				20,
+				20,
+				26
+			]
+		],
+		[
+			"Panrs",
+			"panr",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-68
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": "BattleMaskGuy BMG left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-92
+			],
+			"anim": "singDOWN",
+			"fps": 46,
+			"name": "BattleMaskGuy BMG down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-68
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BattleMaskGuy BMG up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-68
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BattleMaskGuy BMG right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-68
+			],
+			"anim": "idle",
+			"fps": 40,
+			"name": "BattleMaskGuy BMG idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BattleMaskGuy",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "bmg",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		255,
+		0
+	],
+	"camera_position": [
+		20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

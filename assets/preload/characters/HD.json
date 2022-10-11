@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-203
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "HD Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HD Left da Game"
+		},
+		{
+			"offsets": [
+				50,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HDown"
+		},
+		{
+			"offsets": [
+				0,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HD Up"
+		},
+		{
+			"offsets": [
+				0,
+				-203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HD is Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HD_Sheet",
+	"position": [
+		150,
+		40
+	],
+	"healthicon": "hd",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		26
+	],
+	"camera_position": [
+		190,
+		490
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

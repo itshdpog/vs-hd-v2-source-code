@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BattleMaskGuy.png">
+<SubTexture name="BattleMaskGuy BMG idle0000" x="0" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0001" x="0" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0002" x="0" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0003" x="0" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0004" x="202" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0005" x="404" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0006" x="606" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0007" x="0" y="360" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0008" x="202" y="360" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0009" x="404" y="360" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG idle0010" x="0" y="0" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0000" x="808" y="0" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0001" x="808" y="360" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0002" x="1078" y="0" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0003" x="1078" y="360" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0004" x="0" y="720" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG left0005" x="270" y="720" width="270" height="360" frameX="0" frameY="0" frameWidth="270" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG down0000" x="540" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG down0001" x="742" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG down0002" x="944" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG down0003" x="944" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG down0004" x="944" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0000" x="1348" y="360" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0001" x="1348" y="720" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0002" x="0" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0003" x="0" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0004" x="0" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG up0005" x="0" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0000" x="404" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0001" x="606" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0002" x="808" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0003" x="1010" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0004" x="1010" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0005" x="1010" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+<SubTexture name="BattleMaskGuy BMG right0006" x="1010" y="1080" width="202" height="360" frameX="0" frameY="0" frameWidth="202" frameHeight="360" />
+</TextureAtlas>

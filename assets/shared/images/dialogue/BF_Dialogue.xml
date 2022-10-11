@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="BFmod_Dialogue.png">
+<!--Portraaaaait time -->
+  <SubTexture name="Bf_confused.png" x="0" y="0" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_cry.png" x="0" y="527" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_nice.png" x="0" y="1054" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_happy_cry" x="456" y="0" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_lol_what" x="912" y="0" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_neutral" x="1368" y="0" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_oh_no" x="456" y="527" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_pissed" x="456" y="1054" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_upset" x="912" y="527" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="Bf_what" x="1368" y="527" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+  <SubTexture name="ok.png" x="912" y="1054" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+ <SubTexture name="Bf_worried" x="1368" y="1054" width="456" height="527" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

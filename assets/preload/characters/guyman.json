@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunkyDOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sunkyLEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunkyUP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sunkyRIGHT instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sunkyIDLE instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/theboy",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "hd",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		70,
+		248
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

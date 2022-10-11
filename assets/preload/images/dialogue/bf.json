@@ -1,0 +1,167 @@
+{
+	"position": [
+		-375,
+		0
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "BFmod_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cry",
+			"idle_name": "Bf_cry",
+			"loop_name": "Bf_cry"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "Bf_nice",
+			"loop_name": "Bf_nice"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Bf_pissed",
+			"loop_name": "Bf_pissed"
+		},
+		{
+			"idle_offsets": [
+			 0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Bf_oh_no",
+			"loop_name": "Bf_oh_no"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_what",
+			"idle_name": "Bf_what"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused_pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_lol_what",
+			"idle_name": "Bf_lol_what"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ok",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "ok",
+			"idle_name": "ok"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_worried",
+			"idle_name": "Bf_worried"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_upset",
+			"idle_name": "Bf_upset"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_neutral",
+			"idle_name": "Bf_neutral"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "proud",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_happy_cry",
+			"idle_name": "Bf_happy_cry"
+		},
+  {
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Bf_confused",
+			"idle_name": "Bf_confused"
+		}
+	]
+}

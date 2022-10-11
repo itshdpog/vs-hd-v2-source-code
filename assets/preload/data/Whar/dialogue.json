@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey man, you alright?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we uhh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boifend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we just get this over with?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHATEVER YOU SAY BEST FREND!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "PREPARE FOR THE MOST FUN YOUV'E'E' EVER HAD!!!!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "144p2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " IT;LL BE SO FUN YOU WONT'TE' EVEN WANT TO LEAVE!!!!!!"
+		}
+	]
+}

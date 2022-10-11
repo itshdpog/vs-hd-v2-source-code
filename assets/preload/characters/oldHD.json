@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "theboy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				54
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "theboy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				54
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HD",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "oldhd",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		26
+	],
+	"camera_position": [
+		90,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

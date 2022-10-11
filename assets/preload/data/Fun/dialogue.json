@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well that wasn't too bad",
+			"boxState": "normal",
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "boifend"
+		},
+		{
+			"expression": "talk",
+			"text": "THATS ONLY JUST THE BEGINNING!!!! YOUR'E'RE' MUCH BETTER THAN I ANTICIPATED!!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "WE STILL GOTS A LONG,S WAY TO GO!!!!!!!",
+			"boxState": "normal",
+			"sound": "144beep",
+			"speed": 0.05,
+			"portrait": "144p"
+		},
+		{
+			"expression": "talk",
+			"text": "can't wait.",
+			"boxState": "normal",
+			"sound": "bf1",
+			"speed": 0.05,
+			"portrait": "boifend"
+		}
+	]
+}

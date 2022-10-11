@@ -1,0 +1,50 @@
+{
+	"storyName": "SMPHD",
+	"difficulties": "Easy, Hard, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"trololo",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"caves",
+			"hd",
+			[
+				20,
+				20,
+				26
+			]
+		],
+		[
+			"Disc",
+			"hd",
+			[
+				20,
+				20,
+				26
+			]
+		],
+		[
+			"Carrot",
+			"hd",
+			[
+				20,
+				20,
+				26
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week hd",
+	"hiddenUntilUnlocked": false
+}
