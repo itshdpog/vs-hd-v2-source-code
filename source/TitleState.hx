@@ -594,8 +594,10 @@ class TitleState extends MusicBeatState
 					case 13:
 						addMoreText('i wanna kms');
 					case 14:
-						addMoreText('jk #luthersweep');
-					case 15:
+						addMoreText('jk');
+						case 15:
+							addMoreText('uhhhhhhhhh hi');
+					case 16:
 						skipIntro();
 				}
 			}
@@ -638,8 +640,12 @@ class TitleState extends MusicBeatState
 				case 13:
 					addMoreText('i wanna kms');
 				case 14:
-					addMoreText('jk freetheluthersong');
-				case 15:
+					addMoreText('jk ily mom');
+					case 15:
+						addMoreText('beat drop moment');
+						case 16:
+							addMoreText('uhhh where my balls?');
+				case 17:
 					skipIntro();
 				}
 			}

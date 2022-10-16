@@ -1,7 +1,7 @@
 local allowCountdown = false
 function onStartCountdown()
 	if not allowCountdown and isStoryMode and not seenCutscene then --Block the first countdown
-		startVideo('second');
+		startVideo('2nd');
 		allowCountdown = true;
 		return Function_Stop;
 	end
@@ -18,3 +18,4 @@ end
 --end of healthdrain code
 
 	--easy script configs
+
