@@ -1,7 +1,7 @@
 {
 	"song": {
 		"speed": 2.5,
-		"stage": "smphd",
+		"stage": "smphdday",
 		"player1": "bf1",
 		"player2": "HD",
 		"events": [],
@@ -2581,7 +2581,7 @@
 		],
 		"splashSkin": "noteSplashes",
 		"validScore": false,
-		"gfVersion": "gf",
+		"gfVersion": "nothing",
 		"bpm": 140,
 		"arrowSkin": "",
 		"needsVoices": true,
