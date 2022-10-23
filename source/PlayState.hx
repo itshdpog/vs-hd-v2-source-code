@@ -784,9 +784,6 @@ class PlayState extends MusicBeatState
 			case 'Disc':
 			    SongCreator = 'CalciumLmao';
 			    ChartCreator = 'Bluetoot';
-			case 'Carrot':
-			    SongCreator = 'Dvnk';
-			    ChartCreator = 'Bluetoot';
 			case 'Goofy':
 			    SongCreator = 'Sixteenj';
 			    ChartCreator = 'Just Maddie';
@@ -2490,14 +2487,11 @@ class PlayState extends MusicBeatState
 		}
 
 		if (FlxG.keys.anyJustPressed(debugKeysChart) && !endingSong && !inCutscene)
-	/*			{
+				{
 					PlayState.SONG = Song.loadFromJson("torment", "torment"); //Torment Loader
 					FlxG.switchState(new PlayState());
 				}
-				*/
-				{
-					openChartEditor();
-				}
+				
 
 	
 	
@@ -4597,6 +4591,11 @@ class PlayState extends MusicBeatState
 			spr.resetAnim = time;
 		}
 	}
+
+/*case 'Carrot'
+{
+	if songMisses = 0
+} */
 
 	public var ratingName:String = '?';
 	public var ratingPercent:Float;

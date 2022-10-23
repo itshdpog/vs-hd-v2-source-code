@@ -4108,7 +4108,7 @@
 		"speed": 2.7,
 		"ui_Skin": "default",
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "nothing",
 		"cutscene": "second",
 		"timescale": [
 			4,
