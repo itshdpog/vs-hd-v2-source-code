@@ -83,20 +83,19 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['MS Team'],
 			['Just Maddie',		'me',		'Direction, Music, Charting & Coding',						'https://www.youtube.com/watch?v=6scDZp8r7S4',	'1e1e1f'],
-			['Magneto (Sixteenj)',			'mag',		'Music & Art',					'https://www.youtube.com/channel/UCF_NVwZBLKfnYhYjkHbSAnA',		'8d02f0'],
-			['Shekkai47',        'rae',     'Recreated the Hacked Instrumental', 'https://www.youtube.com/channel/UCuCWIlxsNb1Y2LI2qXAuBwg', '4381e6'  ]
+			['kickafly',			'kickafly',			'Editing, Co Direction & Music',				'https://www.youtube.com/c/KickaFly',			'1f007d'],
+			['Magneto aka sixteenj',			'mag',		'Music & Art',					'https://www.youtube.com/channel/UCF_NVwZBLKfnYhYjkHbSAnA',		'8d02f0'],
+			['Shekkai47',        'rae',     'Recreated the Hacked Instrumental', 'https://www.youtube.com/channel/UCuCWIlxsNb1Y2LI2qXAuBwg',                '4381e6'  ],
 			['Merrimation',			'bigdick',		'Art and Animation',					'https://www.youtube.com/channel/UC-wWl6ba3Wn5XqzX5bMcYWQ/featured',		'8b33ff'],
 			['Danky',			'Danky',		'Music',					'https://gamebanana.com/mods/396091',		'1a1818'],
 			['CalciumLmao',			'calicum',		'Music',					'https://www.youtube.com/channel/UCOWb1Zc95JGfgWSPhYBW_mQ',		'7d0505'],
-			['kickafly',			'kickafly',			'Editing & Music',				'https://www.youtube.com/c/KickaFly',			'1f007d'],
 			['Blutetoot',		'blue',		'Charting',						'https://www.youtube.com/channel/UCO83qJAmXpnS6C4TT3RicbQ',	'0303fc'],
-			['gamerzone',		'gamerzone',		'Acting',						'https://www.youtube.com/channel/UCzBoN9HAx1p4H1sWhhN1boA',	'2d2fad'],
+			['gamerzone',		'gamerzone',		'Charting And Acting',						'https://www.youtube.com/channel/UCzBoN9HAx1p4H1sWhhN1boA',	'2d2fad'],
 			['MaidentlessRT',			'ew',		'Art',					'https://www.youtube.com/channel/UClKVsknQf6AQ28PFZ4CEpcA',		'6e6e6e'],
-			['JOIN MY DISCORD SERVER',		'discord',		'Join my server its dead as fuck',						'https://discord.gg/Nv377wurMe',	'2d2fad'],
 			[''],
 			['Honorable Mentions'],
-			['Blend',		'blend',		'He has pretty good content, check him out',						'https://www.youtube.com/c/blendegade',	'878787'],
-			['Slab',		'slab',		'being slab',						'https://www.youtube.com/channel/UC1K7o8nSbPEc7kRBE2eCJYw',	'ded0a9'],
+			['Blend',		'blend',		'uhhhhhhhhhhhhhh',						'https://www.youtube.com/c/blendegade',	'878787'],
+			['Slab',		'slab',		'being slab',						'https://www.youtube.com/channel/UC1K7o8nSbPEc7kRBE2eCJYw',	'ded0a9']
 		];
 		
 		for(i in pisspoop){
