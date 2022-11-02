@@ -38,6 +38,12 @@ class StoryMenuState extends MusicBeatState
 	var txtTracklist:FlxText;
 	var curSelection:Int = 0;
 
+	var koolaid:Array<String> = [
+		'COCK', 'DUMPY'
+	];
+	var allowedKeys:String = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+	var easterEggKeysBuffer:String = '';
+
 	var grpWeekText:FlxTypedGroup<MenuItem>;
 	var grpWeekCharacters:FlxTypedGroup<MenuCharacter>;
 
@@ -406,6 +412,8 @@ class StoryMenuState extends MusicBeatState
 		intendedScore = Highscore.getWeekScore(loadedWeeks[curWeek].fileName, curDifficulty);
 		#end
 	}
+
+ 
 
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;

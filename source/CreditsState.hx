@@ -83,7 +83,8 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['MS Team'],
 			['Just Maddie',		'me',		'Direction, Music, Charting & Coding',						'https://www.youtube.com/watch?v=6scDZp8r7S4',	'1e1e1f'],
-			['sixteenj',			'sixteenj',		'Music & Art',					'https://www.youtube.com/channel/UC4QvfbhWv0UfiId--pJOrzw',		'8d02f0'],
+			['Magneto (Sixteenj)',			'mag',		'Music & Art',					'https://www.youtube.com/channel/UCF_NVwZBLKfnYhYjkHbSAnA',		'8d02f0'],
+			['Shekkai47',        'rae',     'Recreated the Hacked Instrumental', 'https://www.youtube.com/channel/UCuCWIlxsNb1Y2LI2qXAuBwg', '4381e6'  ]
 			['Merrimation',			'bigdick',		'Art and Animation',					'https://www.youtube.com/channel/UC-wWl6ba3Wn5XqzX5bMcYWQ/featured',		'8b33ff'],
 			['Danky',			'Danky',		'Music',					'https://gamebanana.com/mods/396091',		'1a1818'],
 			['CalciumLmao',			'calicum',		'Music',					'https://www.youtube.com/channel/UCOWb1Zc95JGfgWSPhYBW_mQ',		'7d0505'],
