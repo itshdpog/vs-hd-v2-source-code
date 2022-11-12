@@ -92,7 +92,8 @@ class CreditsState extends MusicBeatState
 			['CalciumLmao',			'calicum',		'Music',					'https://www.youtube.com/channel/UCOWb1Zc95JGfgWSPhYBW_mQ',		'7d0505'],
 			['Blutetoot',		'blue',		'Charting',						'https://www.youtube.com/channel/UCO83qJAmXpnS6C4TT3RicbQ',	'0303fc'],
 			['gamerzone',		'gamerzone',		'Charting And Acting',						'https://www.youtube.com/channel/UCzBoN9HAx1p4H1sWhhN1boA',	'2d2fad'],
-			['MaidentlessRT',			'ew',		'Art',					'https://www.youtube.com/channel/UClKVsknQf6AQ28PFZ4CEpcA',		'6e6e6e']
+			['MaidentlessRT',			'ew',		'Art',					'https://www.youtube.com/channel/UClKVsknQf6AQ28PFZ4CEpcA',		'6e6e6e'],
+			['The_Mayz',			'themayz',		'Art and Music',					'https://twitter.com/TheNewMayz_',		'39c41d']
 		];
 		
 		for(i in pisspoop){
