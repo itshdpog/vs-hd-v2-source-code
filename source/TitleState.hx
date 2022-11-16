@@ -606,7 +606,7 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					createCoolText(['Just Maddie', 'Kickafly', 'NotMerrit','Dvnk', 'CalciumLmao']);
+					createCoolText(['Just Maddie', 'Kickafly', 'Maymays4days','Dvnk', 'CalciumLmao']);
 				// credTextShit.visible = true;
 				case 2:
 					addMoreText('and more');
@@ -624,7 +624,7 @@ class TitleState extends MusicBeatState
 				case 5:
 					createCoolText(['In association', 'with']);
 				case 7:
-					addMoreText('John Cena');
+					addMoreText('GOD');
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
 					deleteCoolText();

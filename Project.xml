@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Masked Showdown" file="Generic Minecraft Mod" packageName="com.justmaddie.vshd" package="com.justmaddie.vshd" main="Main" version="3" company="Just Maddie" />
+	<app title="Masked Showdown" file="Masked Showdown" packageName="com.justmaddie.vshd" package="com.justmaddie.vshd" main="Main" version="3" company="Just Maddie" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />

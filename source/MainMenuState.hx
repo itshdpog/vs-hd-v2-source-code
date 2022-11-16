@@ -51,7 +51,7 @@ class MainMenuState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("I LIKE BIG DICK", null);
+		DiscordClient.changePresence("Choosing their fate", null);
 		#end
 
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));

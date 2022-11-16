@@ -41,7 +41,7 @@ class CreditsState extends MusicBeatState
 	{
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("I HATE WHITE PEOPLE!!!!!!!!!!!!!!", null);
+		DiscordClient.changePresence("Looking at the awesome people who made this", null);
 		#end
 
 		persistentUpdate = true;
