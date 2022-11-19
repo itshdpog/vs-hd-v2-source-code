@@ -42,7 +42,7 @@ class DiscordClient
 	static function onReady()
 	{
 		DiscordRpc.presence({
-			details:"sub 2 kickafly",
+			details:"Booting Up :>",
 			state: null,
 			largeImageKey: 'icon',
 			largeImageText: "Masked Showdown"
